@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center; /* Horizontal centering */
   align-items: center; /* Vertical centering */
-  height: 60vh;
+  height: 70vh;
 }
 
 .card {

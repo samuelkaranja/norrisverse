@@ -14,7 +14,7 @@ const NavBar: React.FC = () => {
           id=""
           value={searchKeyword}
           onChange={(e) => setSearchKeyword(e.target.value)}
-          placeholder="Search by keyword"
+          placeholder="Search by keyword....."
         />
       </form>
     </div>
