@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+  height: 60vh;
+}
+
+.card {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  color: #000;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 40px 20px;
+}
+
+.card button {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.card button:hover {
+  cursor: pointer;
+  background-color: blue;
+}
