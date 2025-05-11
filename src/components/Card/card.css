@@ -1,12 +1,13 @@
 .container {
-  display: flex;
-  justify-content: center; /* Horizontal centering */
-  align-items: center; /* Vertical centering */
-  height: 70vh;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  margin-top: 20px;
+  height: 60vh;
 }
 
 .card {
-  width: 500px;
+  width: 600px;
   margin: auto;
   text-align: center;
   color: #000;
@@ -24,3 +25,10 @@
   cursor: pointer;
   background-color: blue;
 }
+
+/* .btns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+} */
